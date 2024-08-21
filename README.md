@@ -1,2 +1,2 @@
 # Tic-tac-Toe
-Juego tres en raya
+Juego tres en raya con interfaz sencilla en react.
